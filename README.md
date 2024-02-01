@@ -1,4 +1,4 @@
-### GitHub Readme for HR Churn Prediction Project
+###HR Churn Prediction
 
 
 #### Overview
